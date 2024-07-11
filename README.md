@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in development and cloud computing
-- 🌱 I’m currently a beginner 
-- 💞️ I’m looking to learn how to colaborate, code, script, etc...
+- 👀 I have a strong passion for React, Python, and both web and app development.
+- 🌱 I’m currently an intermediate programmer.  
+- 💞️ I’m looking to learn and colaborate.
 - 📫 I can be reached at breakingjay5051@hotmail.com
 
 <!---
