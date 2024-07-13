@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt
+- 👋 Hi, I’m Jason
 - 👀 I have a strong passion for React, Python, and both web and app development.
 - 🌱 I’m currently an intermediate programmer.  
 - 💞️ I’m looking to learn and colaborate.
